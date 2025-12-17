@@ -8,9 +8,9 @@
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
-let redLED = DigitalPin.P14
-let greenLED = DigitalPin.P15
-let blueLED = DigitalPin.P16
+const redLED = DigitalPin.P14
+const greenLED = DigitalPin.P15
+const blueLED = DigitalPin.P16
 
 // button A pressed
 
